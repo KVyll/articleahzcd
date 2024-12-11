@@ -131,8 +131,8 @@ span {
    margin-top: 30px;
 }
 
-h1.bg-secondary {
-   background-color: #6c757d !important;
+h1.bg-primary {
+   background-color: #054c8a !important;
    color: white;
    padding: 20px 0;
 }
